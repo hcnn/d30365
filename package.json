@@ -1,0 +1,9 @@
+{
+  "name": "d30365",
+  "version": "0.1.0",
+  "repo": "hcnn/d30365",
+  "description": "Date difference in years according to the 30/365 daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30/365"],
+  "license": "MIT",
+  "src": ["d30365.c", "d30365.h"]
+}
